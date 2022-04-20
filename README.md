@@ -1,4 +1,4 @@
-# CherryTree
+# CherryTree (a fork free from political ignorance and the endorsement of nazism)
 A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file.
 The project home page is [giuspen.com/cherrytree](https://www.giuspen.com/cherrytree/).
 
